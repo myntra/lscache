@@ -1,0 +1,22 @@
+{
+  "name": "lscache",
+  "version": "0.0.0",
+  "description": "lscache",
+  "main": "lscache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/threepointone/lscache.git"
+  },
+  "keywords": [
+    "lscache",
+    "localstorage"
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/threepointone/lscache/issues"
+  }
+}

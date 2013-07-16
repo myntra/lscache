@@ -20,7 +20,7 @@
 /**
  * Creates a namespace for the lscache functions.
  */
-var lscache = function() {
+var lscache = module.exports = function() {
 
   // Prefix for all lscache keys
   var CACHE_PREFIX = 'lscache-';
