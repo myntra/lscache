@@ -1,5 +1,5 @@
 {
-  "name": "@myntra/lscache",
+  "name": "myntra-lscache",
   "version": "1.0.0",
   "description": "lscache",
   "main": "lscache.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/threepoqintone/lscache.git"
+    "url": "https://github.com/threepointone/lscache.git"
   },
   "keywords": [
     "lscache",
